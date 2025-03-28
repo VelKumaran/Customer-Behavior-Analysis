@@ -1,7 +1,4 @@
-# Customer Trends & Marketing Insights
-
-## Overview
-
+# Customer Behavior Analysis
 This project analyzes customer behavior trends, product performance, and marketing effectiveness using Python and SQL. The goal is to improve customer experience and optimize business strategies.
 
 ## Technologies Used
