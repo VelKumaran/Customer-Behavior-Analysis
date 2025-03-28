@@ -121,10 +121,10 @@ FROM customer_journey;
 
 ## Recommendations
 
-✅ Simplify checkout process, display shipping costs upfront, and use cart reminders.  
-✅ Improve product pages with better images, descriptions, and customer reviews.  
-✅ Boost customer retention through loyalty programs and personalized recommendations.  
-✅ Target top-performing regions with country-specific marketing campaigns.  
+ Simplify checkout process, display shipping costs upfront, and use cart reminders.  
+ Improve product pages with better images, descriptions, and customer reviews.  
+ Boost customer retention through loyalty programs and personalized recommendations.  
+ Target top-performing regions with country-specific marketing campaigns.  
 
 ## How to Run the Project
 
@@ -138,5 +138,5 @@ FROM customer_journey;
 
 ## Conclusion
 
-By optimizing checkout, improving product pages, and targeting marketing efforts, businesses can increase conversions and customer loyalty. 🚀
+By optimizing checkout, improving product pages, and targeting marketing efforts, businesses can increase conversions and customer loyalty. 
 
