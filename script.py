@@ -106,6 +106,7 @@ cursor.execute("""
 print("Table 'customer' created successfully in MySQL!")
 conn_mysql.commit()
 
+#data insertion
 data_list = f.values.tolist()
 query = """
     INSERT INTO customer_journey (JourneyID,CustomerID,ProductID,VisitDate,Stage,Action,Duration)
