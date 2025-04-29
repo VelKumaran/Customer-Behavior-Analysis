@@ -23,7 +23,7 @@ FROM Customer_journey;
 SELECT p.ProductName, 
        ROUND(AVG(cr.Rating), 2) AS AvgRating, 
        COUNT(*) AS TotalReviews
-FROM CustomerReviews cr
+FROM Customer_reviews cr
 JOIN Products p ON cr.ProductID = p.ProductID
 GROUP BY p.ProductName
 ORDER BY AvgRating DESC
